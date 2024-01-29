@@ -1,4 +1,4 @@
-# Transformer-Based-Yugioh-Comparator-Model
+# Transformer Based Yugioh Comparator Model
 
   This model is based on the transformer architecture with the aim to calculate how related 5 cards are from the trading card game Yugioh.
 
