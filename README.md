@@ -35,7 +35,7 @@
 ## Important Notes
  - The archived models reach an average validation accuracy of -> ~63.5% but in reality the accuracy is shaky at best and leans more towards ~55% with the majority of models trained. This is explainable due to limitations of the data collection process which limits 
    the data quality . This hence led me to build an auto labelling process involving randomness to build a respectably sized training/validation dataset. But due to this randomness,  this dataset itself is very limited in reflecting the true essence of the card game and the
-   card relationships. This is also why positional encoding was not very affective. Nonetheless, it was still a cool project to build. Ideally, a perfect dataset would involve detailed information on actual duels between people, but obtaining this data from simulators is 
+   card relationships. This is also why positional encoding was not very effective. Ideally, a perfect dataset would involve detailed information on actual duels between people, but obtaining this data from simulators is 
    incredibly difficult due to their own policies in combatting bots and the like. Another approach could be reinforcement learning but this would involve either building or reverse engineering a simulator which is incredibly time consuming.
  
 
